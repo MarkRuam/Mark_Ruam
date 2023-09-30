@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Mark Ruam</h1>
 <h3 align="center">A passionate student of Camarines Sur Polytechnic Colleges</h3>
-<img align="right" alt="Coding" width="400" src="wallpaper.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markruam&label=Profile%20views&color=0e75b6&style=flat" alt="markruam" /> </p>
 
